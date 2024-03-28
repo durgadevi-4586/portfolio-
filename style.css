@@ -253,7 +253,6 @@ nav ul li a:hover::after{
 .btn:hover{
     background: #ff004f;
 }
-/-------------------contact---------------------/
 .contact-left{
     flex-basis: 35%;
 }
@@ -318,7 +317,7 @@ form .btn2{
 .copyright {
     color: #ff004f;
 }
-/----------css for small screens----------/
+
 nav.fa-solid{
     display: none;
 }
